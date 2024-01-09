@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev.berat.app", "odev.berat.app.csproj", "{FA734F58-9C73-4DE9-AC96-1C8FFE2F34F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA734F58-9C73-4DE9-AC96-1C8FFE2F34F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA734F58-9C73-4DE9-AC96-1C8FFE2F34F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA734F58-9C73-4DE9-AC96-1C8FFE2F34F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA734F58-9C73-4DE9-AC96-1C8FFE2F34F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83D90AE-FACB-4656-AA83-98B197A337DD}
+	EndGlobalSection
+EndGlobal
